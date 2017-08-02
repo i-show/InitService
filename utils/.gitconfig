@@ -1,0 +1,12 @@
+[user]
+	name = ishow
+	email = ishow@aliyun.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+[alias]
+	st = status
+    ci = commit
+    co = checkout
+    br = branch
